@@ -26,7 +26,7 @@ Centreon reserves the right to make final decisions regarding publishing acknowl
 * 2021/03/23 - [Benoit Poulet](https://twitter.com/poulet_benoit)
 * 2021/02/22 - [Cody Sixteen](https://twitter.com/CodySixteen)
 * 2021/02/16 - [Sick Codes](https://twitter.com/sickcodes), [wabaf3t](https://twitter.com/wabafet1) and [d0rkerdevil](https://twitter.com/d0rkerdevil)
-* 2021/02/12 - [Alexandru Cucea](https://acucea.github.io/)
+* 2021/02/12 - Alexandru Cucea
 
 ## 2020
 
