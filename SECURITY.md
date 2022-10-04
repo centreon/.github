@@ -6,7 +6,7 @@ We acknowledge that Centreon users and security researchers following our Centre
 If you are the first to report a confirmed vulnerability, we would like to recognize your contribution by listing your name, or the name of your organization on this page.
 You may obviously choose to remain anonymous.
 
-To report a security vulnerability, follow this link: [Security Policy](SECURITY.md).
+For more details on how to report a security vulnerability, kindly check below.
 
 Centreon reserves the right to make final decisions regarding publishing acknowledgments. Also, please be aware that only reports following our Security Policy may qualify for acknowledgement on this page.
 
