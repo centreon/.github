@@ -14,6 +14,7 @@ Centreon reserves the right to make final decisions regarding publishing acknowl
 
 ## 2022
 
+* 2022/11/16 - Vladimir TOUTAIN from [DSecBypass](https://www.dsecbypass.com)
 * 2022/10/05 - [Héctor Morales](mailto:hmorales@centreon.com)
 * 2022/09/06 - Anonymous working with Trend Micro Zero Day Initiative
 * 2022/08/24 - Anonymous working with Trend Micro Zero Day Initiative
