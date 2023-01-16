@@ -14,7 +14,7 @@ Centreon reserves the right to make final decisions regarding publishing acknowl
 
 ## 2022
 
-* 2022/10/05 - Héctor Morales [Héctor Morales](hmorales@centreon.com)
+* 2022/10/05 - [Héctor Morales](hmorales@centreon.com)
 * 2022/09/06 - Anonymous working with Trend Micro Zero Day Initiative
 * 2022/08/24 - Anonymous working with Trend Micro Zero Day Initiative
 * 2022/06/29 - Marcus Lichtenstern
