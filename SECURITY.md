@@ -11,6 +11,9 @@ For more details on how to report a security vulnerability, kindly check below.
 Centreon reserves the right to make final decisions regarding publishing acknowledgments. Also, please be aware that only reports following our Security Policy may qualify for acknowledgement on this page.
 
 ---
+## 2023
+
+* 2023/05/19 - Keyur Maheta (mailto:nthanvs@gmail.com)
 
 ## 2022
 
