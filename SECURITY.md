@@ -13,7 +13,7 @@ Centreon reserves the right to make final decisions regarding publishing acknowl
 ---
 ## 2023
 
-* 2023/05/19 - Keyur Maheta (mailto:nthanvs@gmail.com)
+* 2023/05/19 - Keyur Maheta (mailto:nthanvs@gmail.com) - reported a website vulnerability
 
 ## 2022
 
