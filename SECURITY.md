@@ -12,8 +12,8 @@ Centreon reserves the right to make final decisions regarding publishing acknowl
 
 ---
 ## 2023
-
-* 2023/05/19 - Keyur Maheta (mailto:nthanvs@gmail.com) - reported a website vulnerability
+* 2023/06/08 - [Tomi P Hakala](mailto:tomi.p.hakala@elisa.fi) and [Jarkko Vesiluoma](mailto:jarkko.vesiluoma@elisa.fi) from [Elisa Santa Monica](https://www.elisasantamonica.fi)
+* 2023/05/19 - [Keyur Maheta](mailto:nthanvs@gmail.com)
 
 ## 2022
 
