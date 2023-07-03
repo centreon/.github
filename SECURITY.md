@@ -11,6 +11,9 @@ For more details on how to report a security vulnerability, kindly check below.
 Centreon reserves the right to make final decisions regarding publishing acknowledgments. Also, please be aware that only reports following our Security Policy may qualify for acknowledgement on this page.
 
 ---
+## 2023
+* 2023/06/08 - [Tomi P Hakala](mailto:tomi.p.hakala@elisa.fi) and [Jarkko Vesiluoma](mailto:jarkko.vesiluoma@elisa.fi) from [Elisa Santa Monica](https://www.elisasantamonica.fi)
+* 2023/05/19 - [Keyur Maheta](mailto:nthanvs@gmail.com)
 
 ## 2022
 
