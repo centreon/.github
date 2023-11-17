@@ -1,0 +1,8 @@
+*.sh                @centreon/owners-bash
+
+**                  @centreon/owners-pipelines
+
+*.po		        @centreon/owners-doc
+CONTRIBUTING.md		@centreon/owners-doc
+CODE_OF_CONDUCT.md	@centreon/owners-doc
+*.mdx		        @centreon/owners-doc
