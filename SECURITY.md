@@ -11,20 +11,25 @@ For more details on how to report a security vulnerability, kindly check below.
 Centreon reserves the right to make final decisions regarding publishing acknowledgments. Also, please be aware that only reports following our Security Policy may qualify for acknowledgement on this page.
 
 ---
+
 ## 2023
+
+* 2023/11/29 - 129cf345fa3dcf0fd346682161ba9a4f working with [Trend Micro Zero Day Initiative](https://www.zerodayinitiative.com/) ([CVE-2024-0637](https://www.zerodayinitiative.com/advisories/ZDI-24-118/), [CVE-2024-23115](https://www.zerodayinitiative.com/advisories/ZDI-24-117/), [CVE-2024-23116](https://www.zerodayinitiative.com/advisories/ZDI-24-116/), [CVE-2024-23117](https://www.zerodayinitiative.com/advisories/ZDI-24-115/), [CVE-2024-23118](https://www.zerodayinitiative.com/advisories/ZDI-24-114/), [CVE-2024-23119](https://www.zerodayinitiative.com/advisories/ZDI-24-113/))
 * 2023/06/08 - [Tomi P Hakala](mailto:tomi.p.hakala@elisa.fi) and [Jarkko Vesiluoma](mailto:jarkko.vesiluoma@elisa.fi) from [Elisa Santa Monica](https://www.elisasantamonica.fi)
+* 2023/06/07 - Anonymous working with [Trend Micro Zero Day Initiative](https://www.zerodayinitiative.com/) (CVE-2023-51633)
 * 2023/05/21 - [Milan Katwal](https://twitter.com/milankatwal99)
 * 2023/05/19 - [Keyur Maheta](mailto:nthanvs@gmail.com)
 
 ## 2022
 
 * 2022/11/16 - Vladimir TOUTAIN from [DSecBypass](https://www.dsecbypass.com)
-* 2022/10/05 - [Héctor Morales](mailto:hmorales@centreon.com)
-* 2022/09/06 - Anonymous working with Trend Micro Zero Day Initiative
-* 2022/08/24 - Anonymous working with Trend Micro Zero Day Initiative
+* 2022/10/05 - [Héctor Morales](mailto:hmorales@centreon.com) from [Centreon](https://www.centreon.com)
+* 2022/09/06 - Anonymous working with [Trend Micro Zero Day Initiative](https://www.zerodayinitiative.com/) ([CVE-2022-42424](https://www.zerodayinitiative.com/advisories/ZDI-22-1395/), [CVE-2022-42425](https://www.zerodayinitiative.com/advisories/ZDI-22-1396/), [CVE-2022-42426](https://www.zerodayinitiative.com/advisories/ZDI-22-1397/), [CVE-2022-42427](https://www.zerodayinitiative.com/advisories/ZDI-22-1398/), [CVE-2022-42428](https://www.zerodayinitiative.com/advisories/ZDI-22-1399/), [CVE-2022-42429](https://www.zerodayinitiative.com/advisories/ZDI-22-1394/))
+* 2022/08/24 - Anonymous working with [Trend Micro Zero Day Initiative](https://www.zerodayinitiative.com/) ([CVE-2022-41142](https://www.zerodayinitiative.com/advisories/ZDI-22-1326/))
+* 2022/07/01 - Irsyad Ahmad (CVE-2022-36194)
 * 2022/06/29 - Marcus Lichtenstern
 * 2022/05/23 - Lucas Carmo and Daniel França Lima from [Hakaï Security](https://www.hakaioffensivesecurity.com/)
-* 2022/02/16 - Anonymous working with Trend Micro Zero Day Initiative
+* 2022/02/16 - Anonymous working with [Trend Micro Zero Day Initiative](https://www.zerodayinitiative.com/) ([CVE-2022-34871](https://www.zerodayinitiative.com/advisories/ZDI-22-953/), [CVE-2022-34872](https://www.zerodayinitiative.com/advisories/ZDI-22-954/))
 
 ## 2021
 
@@ -33,14 +38,17 @@ Centreon reserves the right to make final decisions regarding publishing acknowl
 * 2021/06/21 - [Bao Chau](https://www.linkedin.com/in/nhubaochau/) / CyRadar
 * 2021/04/07 - [Synacktiv](https://www.synacktiv.com/), Guillaume André and Théo Louis-Tisserand
 * 2021/03/23 - [Benoit Poulet](https://twitter.com/poulet_benoit)
-* 2021/02/22 - [Cody Sixteen](https://twitter.com/CodySixteen)
+* 2021/02/22 - [Cody Sixteen](https://twitter.com/CodySixteen) ([CVE-2020-22425](https://code610.blogspot.com/2020/04/postauth-sqli-in-centreon-1910-1el7.html))
 * 2021/02/16 - [Sick Codes](https://twitter.com/sickcodes), [wabaf3t](https://twitter.com/wabafet1) and [d0rkerdevil](https://twitter.com/d0rkerdevil)
 * 2021/02/12 - Alexandru Cucea
 
 ## 2020
 
 * 2020/05/20 - [WELAN](https://welan.fr/)
-* 2020/01/06 - Matthew Bach / [TheCyberGeek](https://thecybergeek.co.uk/)
+* 2020/04/30 - Matthew Bach ([TheCyberGeek](https://thecybergeek.co.uk/)) ([CVE-2020-12688](https://github.com/TheCyberGeek/Centreon-20.04))
+* 2020/03/20 - [Engin Demirbilek](https://github.com/EnginDemirbilek) ([CVE-2020-13252, CVE-2020-22345](https://engindemirbilek.github.io/centreon-19.10-rce))
+* 2020/02/27 - [Cody Sixteen](https://twitter.com/CodySixteen) ([CVE-2020-9463](https://code610.blogspot.com/2020/02/postauth-rce-in-centreon-1910.html))
+* 2020/01/06 - Guylian Dw ([SpengeSec](https://spenge.pw/)) and Matthew Bach ([TheCyberGeek](https://thecybergeek.co.uk/)) ([CVE-2019-19699](https://birdsarentrealctf.dev/2020/04/04/Centreon-ARCE-by-SpengeSec.html))
 
 ---
 
