@@ -14,12 +14,13 @@ Centreon reserves the right to make final decisions regarding publishing acknowl
 
 ## 2024
 
-* 2024/03/08 - cchav3z working with [Trend Micro Zero Day Initiative](https://www.zerodayinitiative.com/)
+* 2024/06/21 - Simon Humbert working with [Trend Micro Zero Day Initiative](https://www.zerodayinitiative.com/)
+* 2024/03/08 - cchav3z working with [Trend Micro Zero Day Initiative](https://www.zerodayinitiative.com/) (CVE-2024-32501)
 * 2024/03/07 - Romain Brun from [BZHunt](https://bzhunt.fr/)
 * 2024/03/01 - [Vincent Untz](https://github.com/vuntz) from [Centreon](https://www.centreon.com)
-* 2024/02/22 - cchav3z working with [Trend Micro Zero Day Initiative](https://www.zerodayinitiative.com/)
+* 2024/02/22 - cchav3z working with [Trend Micro Zero Day Initiative](https://www.zerodayinitiative.com/) (CVE-2024-39841)
 * 2024/02/08 - [Julia Leblond](https://github.com/JuliaLblnd) from [Renater](https://www.renater.fr/)
-* 2024/01/16 - Anonymous working with [Trend Micro Zero Day Initiative](https://www.zerodayinitiative.com/)
+* 2024/01/16 - Anonymous working with [Trend Micro Zero Day Initiative](https://www.zerodayinitiative.com/) (CVE-2024-5725)
 
 ## 2023
 
