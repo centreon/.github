@@ -14,7 +14,7 @@ Centreon reserves the right to make final decisions regarding publishing acknowl
 
 ## 2024
 
-* 2024/09/14 - Mounir from [NTT Belgium](https://services.global.ntt/)(CVE- reserved)
+* 2024/09/14 - Mounir Aarab from [NTT Belgium](https://services.global.ntt/) (CVE- reserved)
 * 2024/06/21 - Simon Humbert working with [Trend Micro Zero Day Initiative](https://www.zerodayinitiative.com/)
 * 2024/03/08 - cchav3z working with [Trend Micro Zero Day Initiative](https://www.zerodayinitiative.com/) (CVE-2024-32501)
 * 2024/03/07 - Romain Brun from [BZHunt](https://bzhunt.fr/)
