@@ -74,7 +74,7 @@ You may obviously choose to remain anonymous.
 
 # PGP information (Deprecated)
 
-Kindly do not send us a mail or report a flaw using the Github issues.
+Kindly do not send us a mail or report a flaw using the GitHub issues.
 Instead, use our [Vulnerability Disclosure Program](https://vdp.centreon.com) form 
 
 ### Public key
