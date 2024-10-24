@@ -1,16 +1,22 @@
-# Security Acknowledgement
+# Vulnerability Disclosure Program
 
 Centreon is committed to the security of its product and services and is continuously improving policies, processes, and products to meet the highest standards.
+
+If you believe you have found a security vulnerability, please report it using the form available in our [Vulnerability Disclosure Program](https://vdp.centreon.com).
+
+**Please do not report security vulnerabilities through public GitHub issues.**
+
+## Reporting a Vulnerability
+
+Centreon reserves the right to make final decisions regarding publishing acknowledgments. Also, please be aware that only reports following our Vulnerability Disclosure Policy may qualify for acknowledgement on this page.
+
+---
+
+# Security Acknowledgement
 
 We acknowledge that Centreon users and security researchers following our Centreon Security Policy to report vulnerabilities are key to the success of this commitment.
 If you are the first to report a confirmed vulnerability, we would like to recognize your contribution by listing your name, or the name of your organization on this page.
 You may obviously choose to remain anonymous.
-
-For more details on how to report a security vulnerability, kindly check below.
-
-Centreon reserves the right to make final decisions regarding publishing acknowledgments. Also, please be aware that only reports following our Security Policy may qualify for acknowledgement on this page.
-
----
 
 ## 2024
 
@@ -65,35 +71,11 @@ Centreon reserves the right to make final decisions regarding publishing acknowl
 
 ---
 
-# Security Policy
 
-Centreon takes the security of our software products seriously.
+# PGP information (Deprecated)
 
-If you believe you have found a security vulnerability, please report it to us as described below.
-
-## Reporting a Vulnerability
-
-**Please do not report security vulnerabilities through public GitHub issues.**
-
-Open source users can send an email to security@centreon.com. If possible, encrypt your message with our PGP key below. Commercial edition customers, please report vulnerabilities through the [support portal](https://support.centreon.com).
-
-You should receive a response within 48 hours. If for some reason you do not, please follow up via email to ensure we received your original message.
-
-To help us better understand the nature and scope of the possible issue, please describe as much as you can: 
-
-* Type of issue (e.g. buffer overflow, SQL injection, cross-site scripting, etc.)
-* Full paths of source file(s) related to the manifestation of the issue
-* The location of the affected source code (tag/branch/commit or direct URL)
-* Any special configuration required to reproduce the issue
-* Step-by-step instructions to reproduce the issue
-* Proof-of-concept or exploit code (if possible)
-* Impact of the issue, including how an attacker might exploit the issue
-
-## Bug bounty
-
-We don't have a bug bounty program but this is something we are thinking about.
-
-## PGP information
+Kindly do not send us an email or report a flaw using GitHub issues.
+Instead, use our [Vulnerability Disclosure Program](https://vdp.centreon.com) form.
 
 ### Public key
 
