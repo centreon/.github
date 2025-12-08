@@ -2,8 +2,9 @@
 
 **                  @centreon/owners-pipelines
 
-*.po		        @centreon/owners-doc
-CONTRIBUTING.md		@centreon/owners-doc
-CODE_OF_CONDUCT.md	@centreon/owners-doc
-*.mdx		        @centreon/owners-doc
-SECURITY.md			@centreon/security-management
+*.po                @centreon/owners-doc
+CONTRIBUTING.md     @centreon/owners-doc
+CODE_OF_CONDUCT.md  @centreon/owners-doc
+*.mdx               @centreon/owners-doc
+SECURITY.md         @centreon/owners-security
+dependabot.yml      @centreon/owners-security
