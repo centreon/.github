@@ -45,25 +45,18 @@ Before submitting a Pull Request, please make sure your code follows the standar
   composer rector:fix  # Automatically fix with Rector
   ```
 
-- **Check architecture compliance with Deptrac**:
+- **Check architecture compliance with Deptrac (available for dev-25.10.x and up)**:
   ```sh
   composer dep:new      # Check architecture integrity (Deptrac)
-  ```
 
 - **Run static analysis (PHPStan)**:
   ```sh
   composer stan
   ```
 
-- **Run unit tests**:
+- **Run unit tests (for legacy code)**:
   ```sh
   composer test
-  ```
-
-- **Run PHPUnit tests (new architecture src/App)**:
-  ```sh
-  composer test:new
-  ```
 
 ## 4. Respect the `src/Core` Architecture
 
