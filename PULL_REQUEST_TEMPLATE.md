@@ -12,7 +12,7 @@ Please include a short resume of the changes and the general purpose of the pull
 
 - [ ] Patch fixing an issue (non-breaking change)
 - [ ] New functionality (non-breaking change)
-- [ ] Breaking change (patch or feature) that might cause side effects on critical parts of the software
+- [ ] Breaking change (patch or feature) that might cause unexpected side effects, breaking part of the software 
 
 ## Target serie
 
